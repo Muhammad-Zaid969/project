@@ -1,0 +1,8 @@
+ # this is my project repo
+ <h1>Git clone for github to vs code</h1>
+    <p>ls check file and ls -force for all files in folder</p>
+    <p>First: If you can change in vs code you cannot see this change in git hub you can follow this roles:</p>
+<p>Second: add this command <h2>git add .</h2> Third:add commit<h3>hit commit -m "commit name any"</h3></p>
+<p>fourth: git push into github by this command "git push origin main</p>
+<h3>you can see this change into git hub</h3>
+<h1>see more</h1>
